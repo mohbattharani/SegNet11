@@ -1,0 +1,8 @@
+python main.py
+
+# go to "config.py" and change 
+
+
+train_iteration = 10000  # total training Iterations
+save_model_itr = 500    # save checkpoint after this number of Iterations
+val_iter       = 500    # validate after this number of Iterations
